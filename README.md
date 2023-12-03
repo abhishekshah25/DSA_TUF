@@ -1,2 +1,2 @@
 # DSA_TUF
-Solutions of A-Z Data Structures &amp; Algorithms Sheet by TakeUForward (TUF)
+Solutions of A-Z Data Structures &amp; Algorithms Sheet by TakeUForward
